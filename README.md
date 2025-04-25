@@ -71,12 +71,12 @@ Hola, Soy Luna, Maria Ines!
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">💾☁ Bases de Datos y Alojamiento en la nube:</h2></summary>
+    <summary><h2 style="display: inline-block">☁Alojamiento en la nube:</h2></summary>
   </ul>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sql,mysql,git,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github&perline=14" />
   </a>
 </p>
 <!--### 🗄️ Bases de Datos y Alojamiento en la nube
