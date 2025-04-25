@@ -30,9 +30,14 @@ Hola, Soy Luna, Maria Ines!
 <hr>
 
 
-## 🛠️ Mis Herramientas Favoritas
+<!--## 🛠️ Mis Herramientas Favoritas
 
-### 👨‍💻 Programo en los siguientes lenguajes:
+### 👨‍💻 Programo en los siguientes lenguajes:-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">👨🏻‍💻Programo en los siguientes lenguajes:</h2></summary>
+  </ul>
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
