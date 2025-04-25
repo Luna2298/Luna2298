@@ -15,11 +15,15 @@ Hola, Soy Luna, Maria Ines!
 
 ```
 💻 Soy Desarrolladora BackEnd especializada en Java
-📚 Soy estudiante de la carrera Analista de Sistemas, en el I.S.d.E.D.y.T Nº 43, Lobos
+📚 Soy estudiante de la carrera Analista de Sistemas,
+    en el I.S.d.E.D.y.T Nº 43, Lobos
 📝 Me agrada investigar, analizar y crear apps
 🌟 Conosco estos lenguajes: Java, HTML5, CSS3
-🚩 Actualmente, me dedico a realizar apps de escritorio,
-🚩 Pero sigo adquiriendo conocimientos, para aprender a realizar apps web. Y que sean mucho mas complejas
+🚩 Actualmente, me dedico a realizar apps de escritorio.
+🔎 Aun asi sigo estudiando para asi poder adquirir y ampliar
+   mis conocimientos, con el objetivo de poder comenzar
+   a crear apps web.
+   Que sean mucho mas complejas
 ```
 <hr>
 
