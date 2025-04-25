@@ -68,15 +68,26 @@ Hola, Soy Luna, Maria Ines!
 
 </p>-->
 
-### 🗄️ Bases de Datos y Alojamiento en la nube
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">💾☁ Bases de Datos y Alojamiento en la nube:</h2></summary>
+  </ul>
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sql,mysql,git,github&perline=14" />
+  </a>
+</p>
+<!--### 🗄️ Bases de Datos y Alojamiento en la nube
 <!--and Cloud Hosting-->
-<p>
+<!--<p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <!--<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>-->
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <!--<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <!--<a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>-->
-</p>
+<!--</p>-->
 
 ### 💻 Software y Herramientas
 
