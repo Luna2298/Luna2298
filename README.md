@@ -36,7 +36,7 @@ Hola, Soy Luna, Maria Ines!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=csshtml,java&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,html,java&perline=14" />
   </a>
 </p>
 
