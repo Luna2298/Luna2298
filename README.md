@@ -21,7 +21,7 @@ Hola, Soy Luna, Maria Ines!
     con el fin de ayudar a facilitar ciertos labores
 🌟 Conosco los siguientes lenguajes: Java, HTML5, CSS3
 🚩 Actualmente, me dedico a realizar apps de escritorio.
-🔎 Aun asi sigo estudiando para asi poder adquirir y ampliar
+🔎 Aun asi sigo estudiando para poder adquirir y ampliar
     mis conocimientos, con el objetivo de poder comenzar
     a crear apps web.
     Que sean mucho mas complejas
