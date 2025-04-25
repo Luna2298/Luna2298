@@ -16,15 +16,14 @@ Hola, Soy Luna, Maria Ines!
 ```
 I-am-vishalmaurya@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
+💻 Soy Desarrolladora BackEnd especializada en Java
+📚 Soy estudiante de la carrera Analista de Sistemas, en el I.S.d.E.D.y.T Nº 43, Lobos
+📝 Me agrada investigar, analizar y crear apps
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+🌟 Conosco estos lenguajes: Java, HTML5, CSS3
+🚩 Actualmente, me dedico a realizar apps de escritorio,
+🚩 Pero sigo adquiriendo conocimientos, para aprender a realizar apps web. Y que sean mucho mas complejas
 ```
 <hr>
 
