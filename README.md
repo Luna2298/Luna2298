@@ -7,7 +7,7 @@ Hola, Soy Luna, Maria Ines!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+Analista+Sistemas;Desarrolladora+Back+End;Freelancer;Creativa%20|%20Determinada%20|%20Analitica%20Entusiasta;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+Analista+de+Sistemas;Desarrolladora+BackEnd;Freelancer;%20Creativa%20|%20Determinada%20|%20Analitica%20Entusiasta%20;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 </p>
 
