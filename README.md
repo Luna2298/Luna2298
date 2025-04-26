@@ -43,15 +43,7 @@
   <li>CSS3</li>
   <li>SQL</li>
 </ul>
-<!--<div style="font-size: 24px; margin-left: 20px;">
- <ul>
-  <li>Java 17</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>SQL</li>
-</ul>
-</div>-->
-<hr style="width: 30%; height: 1px; background-color: #ccc; border: none; margin: auto;">
+
 
 <!--```
 • Java 17
@@ -61,30 +53,33 @@
 ```-->
 
 ### 💾 Control de versiones ☁
-<div style="font-size: 24px; margin-left: 20px;">
-• Git<br>
-• GitHub<br>
-</div>
+ <ul>
+  <li>GitHub</li>
+  <li>Git</li>
+</ul>
+
 
 ### 🗄️ Bases de Datos
-<div style="font-size: 24px; margin-left: 20px;">
-• SQL Server<br>
-• MySQL Workbench<br>
-</div>
+ <ul>
+  <li>SQL Server</li>
+  <li>MySQL Workbench</li>
+</ul>
 
 ### 🛠️ Herramientas
-<div style="font-size: 24px; margin-left: 20px;">
-• Maven<br>
-• EclipseLink<br>
-</div>
+ <ul>
+  <li>Maven</li>
+  <li>EclipseLink</li>
+</ul>
+
 
 <!--### 💻 Software y Herramientas-->
 ### 💻 IDEs
-<div style="font-size: 24px; margin-left: 20px;">
-• IntelliJ <br>
-• Apache NetBeans<br>
-• Visual Studio Code<br>
-</div>
+ <ul>
+  <li>IntelliJ</li>
+  <li>Apache NetBeans</li>
+  <li>Visual Studio Code</li>
+</ul>
+
 
 
 ## 🤔 No es perfecto, ¿verdad?
