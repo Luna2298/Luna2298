@@ -54,14 +54,14 @@
  <ul>
   <li>Maven</li>
   <li>EclipseLink</li>
+  <li>JPA</li>
   <li>Java Swing<br></li>
 </ul>
 
 ### 🧠 Conocimientos
  <ul>
   <li>POO</li>
-  <li>Java SE</li>
-  <li>POO<br></li>
+  <li>Java SE<br></li>
 </ul>
 
 ### 💾 Control de versiones ☁
