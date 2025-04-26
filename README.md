@@ -40,10 +40,12 @@
 ### 👨‍💻 Programo en los siguientes lenguajes:
 
 <div style="font-size: 24px;">
+ ```
   • Java 17<br>
   • HTML5<br>
   • CSS3<br>
   • SQL
+ ```
 </div>
 <!--```
 • Java 17
