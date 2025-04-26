@@ -54,8 +54,8 @@
 ### 💾 Control de versiones ☁
  <ul>
   <li>GitHub</li>
-  <li>Git</li>
-</ul><br>
+  <li>Git</li><br>
+</ul>
 
 
 ### 🗄️ Bases de Datos
