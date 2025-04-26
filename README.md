@@ -44,7 +44,6 @@
   <li>SQL</li>
 </ul>
 <br>
-<br>
 <!--```
 • Java 17
 • HTML5
@@ -64,13 +63,14 @@
   <li>SQL Server</li>
   <li>MySQL Workbench</li>
 </ul>
+<br>
 
 ### 🛠️ Herramientas
  <ul>
   <li>Maven</li>
   <li>EclipseLink</li>
 </ul>
-
+<br>
 
 <!--### 💻 Software y Herramientas-->
 ### 💻 IDEs
@@ -79,7 +79,7 @@
   <li>Apache NetBeans</li>
   <li>Visual Studio Code</li>
 </ul>
-
+<br>
 
 
 ## 🤔 No es perfecto, ¿verdad?
