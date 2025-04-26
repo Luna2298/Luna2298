@@ -39,7 +39,7 @@
 
 ### 👨‍💻 Programo en los siguientes lenguajes:
 
-<div style="font-size: 24px;padding-left: 20px;">
+<div style="font-size: 24px;padding-left: 30px;">
 
   • Java 17<br>
   • HTML5<br>
