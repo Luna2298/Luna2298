@@ -36,16 +36,21 @@
 💡 Tambien, me gusta consumir cursos y/o sitios, que me permitan lograr tener un mejor juicio y ser una mejor profesional ``` -->
 <hr>
 
-
-<div style="font-size: 24px; margin-left: 20px;">
-<p style="font-size: 34px; margin-left: 20px;">👨‍💻 Programo en los siguientes lenguajes:</p>
+### 👨‍💻 Programo en los siguientes lenguajes:
  <ul>
   <li>Java 17</li>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>SQL</li>
 </ul>
-</div>
+<!--<div style="font-size: 24px; margin-left: 20px;">
+ <ul>
+  <li>Java 17</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>SQL</li>
+</ul>
+</div>-->
 <hr style="width: 30%; height: 1px; background-color: #ccc; border: none; margin: auto;">
 
 <!--```
