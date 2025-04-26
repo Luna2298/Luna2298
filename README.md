@@ -63,7 +63,7 @@
   <li>Java SE<br></li>
 </ul>
 
-### 💾 Control de versiones ☁
+### 💾 Control de versiones
  <ul>
   <li>GitHub</li>
   <li>Git<br></li>
