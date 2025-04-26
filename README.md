@@ -39,7 +39,7 @@
 
 ### 👨‍💻 Programo en los siguientes lenguajes:
 
-<div style="font-size: 24px; margin-left: 500px;">
+<div style="font-size: 24px; margin-left: 20px;">
   • Java 17<br>
   • HTML5<br>
   • CSS3<br>
