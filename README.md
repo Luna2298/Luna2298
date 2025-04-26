@@ -30,12 +30,12 @@ Hola, Soy Luna, Maria Ines!
 <!--## 🛠️ Mis Herramientas Favoritas-->
 
 ### 👨‍💻 Programo en los siguientes lenguajes:
-<hr>
+```
 • Java
 • HTML5
 • CSS3
 • SQL
-<hr>
+```
 <!--<div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">👨🏻‍💻 Programo en los siguientes lenguajes </h2></summary>
