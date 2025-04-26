@@ -11,7 +11,7 @@ Hola, Soy Luna, Maria Ines!
 </p>
 </p>
 <!--https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png-->
-<img align="left" src="[![20200214-183830.jpg](https://i.postimg.cc/zDHBgZqR/20200214-183830.jpg)](https://postimg.cc/t7yyKcZX)" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<!--<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />-->
 <hr>
 
 ```
