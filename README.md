@@ -38,7 +38,7 @@
 
 
 <div style="font-size: 24px; margin-left: 20px;">
-### 👨‍💻 Programo en los siguientes lenguajes:
+<p>👨‍💻 Programo en los siguientes lenguajes:</p>
  <ul>
   <li>Java 17</li>
   <li>HTML5</li>
@@ -46,7 +46,7 @@
   <li>SQL</li>
 </ul>
 </div>
-</p>
+<hr style="width: 30%; height: 1px; background-color: #ccc; border: none; margin: auto;"><hr>
 
 <!--```
 • Java 17
