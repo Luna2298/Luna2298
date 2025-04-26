@@ -38,7 +38,7 @@
 
 
 <div style="font-size: 24px; margin-left: 20px;">
-<p>👨‍💻 Programo en los siguientes lenguajes:</p>
+<p style="font-size: 34px; margin-left: 20px;">👨‍💻 Programo en los siguientes lenguajes:</p>
  <ul>
   <li>Java 17</li>
   <li>HTML5</li>
