@@ -36,8 +36,9 @@
 💡 Tambien, me gusta consumir cursos y/o sitios, que me permitan lograr tener un mejor juicio y ser una mejor profesional ``` -->
 <hr>
 
-### 👨‍💻 Programo en los siguientes lenguajes:
+
 <div style="font-size: 24px; margin-left: 20px;">
+### 👨‍💻 Programo en los siguientes lenguajes:
  <ul>
   <li>Java 17</li>
   <li>HTML5</li>
