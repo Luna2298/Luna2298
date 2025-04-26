@@ -56,7 +56,7 @@
 • GitHub<br>
 </div>
 
-###🗄️ Bases de Datos
+### 🗄️ Bases de Datos
 <div style="font-size: 24px; margin-left: 20px;">
 • SQL Server<br>
 • MySQL Workbench<br>
