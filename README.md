@@ -43,6 +43,8 @@
   • CSS3<br>
   • SQL
 </div>
+---
+
 <!--```
 • Java 17
 • HTML5
