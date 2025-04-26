@@ -37,7 +37,6 @@
 <hr>
 
 ### 👨‍💻 Programo en los siguientes lenguajes:
-
 <div style="font-size: 24px; margin-left: 20px;">
   • Java 17<br>
   • HTML5<br>
@@ -57,7 +56,7 @@
 • GitHub<br>
 </div>
 
-### 🗄️ Bases de Datos
+###🗄️ Bases de Datos
 <div style="font-size: 24px; margin-left: 20px;">
 • SQL Server<br>
 • MySQL Workbench<br>
