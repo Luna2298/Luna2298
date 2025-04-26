@@ -53,28 +53,28 @@
 
 ### 💾 Control de versiones ☁
 <div style="font-size: 24px; margin-left: 20px;">
-• Git
-• GitHub
+• Git<br>
+• GitHub<br>
 </div>
 
 ### 🗄️ Bases de Datos
 <div style="font-size: 24px; margin-left: 20px;">
-• SQL Server
-• MySQL Workbench
+• SQL Server<br>
+• MySQL Workbench<br>
 </div>
 
 ### 🛠️ Herramientas
 <div style="font-size: 24px; margin-left: 20px;">
-• Maven
-• EclipseLink
+• Maven<br>
+• EclipseLink<br>
 </div>
 
 <!--### 💻 Software y Herramientas-->
 ### 💻 IDEs
 <div style="font-size: 24px; margin-left: 20px;">
-• IntelliJ 
-• Apache NetBeans
-• Visual Studio Code
+• IntelliJ <br>
+• Apache NetBeans<br>
+• Visual Studio Code<br>
 </div>
 
 
