@@ -47,7 +47,7 @@ Hola, Soy Luna, Maria Ines!
   </a>
 </p>-->
 
-<p>
+<!--<p>
     <!--<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>-->
@@ -128,7 +128,7 @@ Hola, Soy Luna, Maria Ines!
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>-->
     <!--<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>-->
+<!--</p>-->
 
 <!--### 👨🏽‍💻 Espacio de Trabajo
 <p>
@@ -169,14 +169,14 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 
 ## No es perfecto, ¿verdad?
 
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
+<!--**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**-->
 
 “Creo que es muy importante tener un ciclo de retroalimentación, donde constantemente piensas en lo que has hecho y cómo podrías mejorarlo.”
 – Elon Musk
 
-  </td>
+  <!--</td>
   </tr>
-</table>
+</table>-->
 
 ------
 Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
