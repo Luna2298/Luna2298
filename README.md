@@ -21,7 +21,7 @@ Hola, Soy Luna, Maria Ines!
 🌟 Conosco los siguientes lenguajes: Java, HTML5, CSS3, SQL
 🚩 Actualmente, me dedico a realizar apps de escritorio.
 🧠 Aun asi sigo estudiando para poder adquirir y ampliar mis conocimientos,
-🔎 Con el objetivo de permitirme comenzar a crear apps web. Y que, tanto estas como las de escritorio sean mucho mas complejas
+🔎 Con el objetivo de permitirme comenzar a crear apps web. Y tanto estas, como las de escritorio sean mucho mas complejas
 📚 Tambien, me gusta consumir cursos y/o sitios, que me permitan lograr tener un mejor juicio y ser una mejor profesional
 ```
 <hr>
@@ -71,8 +71,12 @@ Hola, Soy Luna, Maria Ines!
 
 </p>-->
 
-
-<div id="user-content-toc">
+### 💾 Control de versiones ☁
+```
+• Git
+• GitHub
+```
+<!--<div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">💾 Control de versiones ☁</h2></summary>
   </ul>
@@ -81,7 +85,14 @@ Hola, Soy Luna, Maria Ines!
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github&perline=14" />
   </a>
-</p>
+</p>-->
+
+### 🗄️ Bases de Datos
+```
+• SQL Server
+• MySQL Workbench
+```
+
 <!--### 🗄️ Bases de Datos y Alojamiento en la nube
 <!--and Cloud Hosting-->
 <!--<p>
@@ -92,21 +103,32 @@ Hola, Soy Luna, Maria Ines!
     <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>-->
 <!--</p>-->
 
-### 💻 Software y Herramientas
+### 🛠️ Herramientas
+```
+• Maven
+• EclipseLink
+```
 
-<p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+<!--### 💻 Software y Herramientas-->
+### 💻 IDEs
+```
+• IntelliJ 
+• Apache NetBeans
+• Visual Studio Code
+```
+<!--<p>
+    <!--<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <!--<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>-->
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
+    <!--<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <!--<a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>-->
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+   <!-- <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <!--<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>-->
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+    <!--<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>-->
 
 <!--### 👨🏽‍💻 Espacio de Trabajo
 <p>
@@ -132,7 +154,7 @@ Hola, Soy Luna, Maria Ines!
 
 
 
-<table style="border: none">
+<!--<table style="border: none">
   <tr>
   <td width="50%" valign="top">
 
@@ -143,13 +165,13 @@ If you have any questions about front-end web development, feel free to <a href=
 You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
-  <td width="50%" valign="top">
+  <td width="50%" valign="top">-->
 
-## It's not perfect, isn't it?
+## No es perfecto, ¿verdad?
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+“Creo que es muy importante tener un ciclo de retroalimentación, donde constantemente piensas en lo que has hecho y cómo podrías mejorarlo.”
 – Elon Musk
 
   </td>
