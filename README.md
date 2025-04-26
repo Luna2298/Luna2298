@@ -26,9 +26,6 @@ Hola, Soy Luna, Maria Ines!
 ```
 <hr>
 
-
-<!--## 🛠️ Mis Herramientas Favoritas-->
-
 ### 👨‍💻 Programo en los siguientes lenguajes:
 ```
 • Java
@@ -37,24 +34,17 @@ Hola, Soy Luna, Maria Ines!
 • SQL
 ```
 
-
-
-
-
 ### 💾 Control de versiones ☁
 ```
 • Git
 • GitHub
 ```
 
-
 ### 🗄️ Bases de Datos
 ```
 • SQL Server
 • MySQL Workbench
 ```
-
-
 
 ### 🛠️ Herramientas
 ```
@@ -71,23 +61,12 @@ Hola, Soy Luna, Maria Ines!
 ```
 
 
-
-
-
-
-
-
 ## No es perfecto, ¿verdad?
-
 
 “Creo que es muy importante tener un ciclo de retroalimentación, donde constantemente piensas en lo que has hecho y cómo podrías mejorarlo.”
 – Elon Musk
 
 
-
-------
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
 
 
 
