@@ -21,16 +21,22 @@ Hola, Soy Luna, Maria Ines!
 🌟 Conosco los siguientes lenguajes: Java, HTML5, CSS3, SQL
 🚩 Actualmente, me dedico a realizar apps de escritorio.
 🧠 Aun asi sigo estudiando para poder adquirir y ampliar mis conocimientos,
-🔎 Con el objetivo de permitirme comenzar a crear apps web. Y que tanto estas como las de escritorio sean mucho mas complejas
+🔎 Con el objetivo de permitirme comenzar a crear apps web. Y que, tanto estas como las de escritorio sean mucho mas complejas
 📚 Tambien, me gusta consumir cursos y/o sitios, que me permitan lograr tener un mejor juicio y ser una mejor profesional
 ```
 <hr>
 
 
-<!--## 🛠️ Mis Herramientas Favoritas
+<!--## 🛠️ Mis Herramientas Favoritas-->
 
-### 👨‍💻 Programo en los siguientes lenguajes:-->
-<div id="user-content-toc">
+### 👨‍💻 Programo en los siguientes lenguajes:
+<hr>
+• Java
+• HTML5
+• CSS3
+• SQL
+<hr>
+<!--<div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">👨🏻‍💻 Programo en los siguientes lenguajes </h2></summary>
   </ul>
@@ -39,7 +45,7 @@ Hola, Soy Luna, Maria Ines!
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,java&perline=14" />
   </a>
-</p>
+</p>-->
 
 <p>
     <!--<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
