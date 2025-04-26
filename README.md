@@ -54,22 +54,22 @@
 ### 💾 Control de versiones ☁
  <ul>
   <li>GitHub</li>
-  <li>Git</li><br>
+  <li>Git<br></li>
 </ul>
 
 
 ### 🗄️ Bases de Datos
  <ul>
   <li>SQL Server</li>
-  <li>MySQL Workbench</li>
-</ul><br>
+  <li>MySQL Workbench<br></li>
+</ul>
 
 
 ### 🛠️ Herramientas
  <ul>
   <li>Maven</li>
-  <li>EclipseLink</li>
-</ul><br>
+  <li>EclipseLink<br></li>
+</ul>
 
 
 <!--### 💻 Software y Herramientas-->
@@ -77,8 +77,8 @@
  <ul>
   <li>IntelliJ</li>
   <li>Apache NetBeans</li>
-  <li>Visual Studio Code</li>
-</ul><br>
+  <li>Visual Studio Code<br></li>
+</ul>
 
 
 
