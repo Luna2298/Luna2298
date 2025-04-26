@@ -46,7 +46,7 @@
   <li>SQL</li>
 </ul>
 </div>
-<hr style="width: 30%; border: 1px dashed #999; margin: auto;">
+<hr style="width: 30%; height: 1px; background-color: #ccc; border: none; margin: auto;">
 
 <!--```
 • Java 17
