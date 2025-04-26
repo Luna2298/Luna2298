@@ -39,7 +39,7 @@
 
 ### 👨‍💻 Programo en los siguientes lenguajes:
 ```
-• Java
+• Java 17
 • HTML5
 • CSS3
 • SQL
