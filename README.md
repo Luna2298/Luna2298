@@ -15,15 +15,25 @@
 <hr>
 
 ```
-💻 Soy desarrolladora Back-End especializada en Java.
+💻 Soy desarrolladora Back-End con enfoque en Java.
+📚 Actualmente estudio la carrera de Analista de Sistemas en el I.S.d.E.D.y.T N.º 43, en Lobos.
+📝 Me apasiona investigar, analizar y desarrollar aplicaciones que ayuden a facilitar tareas a los usuarios.
+🌟 Tengo conocimientos en Java, HTML5, CSS3 y SQL.
+🚩 Me encuentro desarrollando aplicaciones de escritorio.
+🧠 Sigo formándome para ampliar mis habilidades y conocimientos,
+🔎 con el objetivo de comenzar a crear aplicaciones web más robustas y complejas, tanto como las de escritorio.
+📚 Además, disfruto realizar cursos y explorar recursos que me ayuden a mejorar mi criterio profesional y crecer en este camino.
+```
+
+<!--💻 Soy desarrolladora Back-End especializada en Java.
 📚 Estudio la carrera de Analista de Sistemas en el I.S.d.E.D.y.T N.º 43, en Lobos.
 📝 Me gusta investigar, analizar y crear aplicaciones con el fin de ayudar a los usuarios a facilitar ciertas tareas.
 🌟 Conozco los siguientes lenguajes: Java, HTML5, CSS3, SQL.
 🚩 Actualmente me dedico a desarrollar aplicaciones de escritorio.
 🧠 Aun así, sigo estudiando para adquirir y ampliar mis conocimientos,
 🔎 con el objetivo de comenzar a crear aplicaciones web. Y tanto estas como las de escritorio, que sean mucho más complejas.
-📚 También me gusta consumir cursos y visitar sitios que me permitan mejorar mi criterio y convertirme en una mejor profesional.
-```
+📚 También me gusta consumir cursos y visitar sitios que me permitan mejorar mi criterio y convertirme en una mejor profesional.-->
+
 <hr>
 
 ### 👨‍💻 Programo en los siguientes lenguajes:
