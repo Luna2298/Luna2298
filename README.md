@@ -44,6 +44,7 @@
   <li>CSS3</li>
   <li>SQL</li>
 </ul>
+<hr style="width: 30%; height: 1px; background-color: #ccc; border: none; margin: auto;">
 </div>
 
 
