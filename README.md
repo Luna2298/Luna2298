@@ -42,8 +42,8 @@
   <li>HTML5</li>
   <li>CSS3</li>
   <li>SQL</li>
-</ul>
-<br>
+</ul><br>
+
 <!--```
 • Java 17
 • HTML5
@@ -55,22 +55,22 @@
  <ul>
   <li>GitHub</li>
   <li>Git</li>
-</ul>
-<br>
+</ul><br>
+
 
 ### 🗄️ Bases de Datos
  <ul>
   <li>SQL Server</li>
   <li>MySQL Workbench</li>
-</ul>
-<br>
+</ul><br>
+
 
 ### 🛠️ Herramientas
  <ul>
   <li>Maven</li>
   <li>EclipseLink</li>
-</ul>
-<br>
+</ul><br>
+
 
 <!--### 💻 Software y Herramientas-->
 ### 💻 IDEs
@@ -78,8 +78,8 @@
   <li>IntelliJ</li>
   <li>Apache NetBeans</li>
   <li>Visual Studio Code</li>
-</ul>
-<br>
+</ul><br>
+
 
 
 ## 🤔 No es perfecto, ¿verdad?
