@@ -36,15 +36,15 @@
 💡 Tambien, me gusta consumir cursos y/o sitios, que me permitan lograr tener un mejor juicio y ser una mejor profesional ``` -->
 <hr>
 
-### 👨‍💻 Programo en los siguientes lenguajes:
+### 👨‍💻 Programo en los siguientes lenguajes
  <ul>
   <li>Java 17</li>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>SQL</li>
 </ul>
-
-
+<br>
+<br>
 <!--```
 • Java 17
 • HTML5
@@ -57,7 +57,7 @@
   <li>GitHub</li>
   <li>Git</li>
 </ul>
-
+<br>
 
 ### 🗄️ Bases de Datos
  <ul>
