@@ -15,26 +15,26 @@
 
 <hr>
 
-```
-💻 Soy desarrolladora Back-End con enfoque en Java.
-📚 Actualmente estudio la carrera de Analista de Sistemas en el I.S.d.E.D.y.T N.º 43, en Lobos.
-📝 Me apasiona investigar, analizar y desarrollar aplicaciones que ayuden a facilitar tareas a los usuarios.
-🌟 Tengo conocimientos en Java, HTML5, CSS3 y SQL.
-🚩 Me encuentro desarrollando aplicaciones de escritorio.
-🧠 Sigo formándome para ampliar mis habilidades y conocimientos,
-🔎 con el objetivo de comenzar a crear aplicaciones web más robustas y complejas, tanto como las de escritorio.
-📚 Además, disfruto realizar cursos y explorar recursos que me ayuden a mejorar mi criterio profesional y
+<div style="font-size: 24px; margin-left: 20px;">
+💻 Soy desarrolladora Back-End con enfoque en Java.<br>
+📚 Actualmente estudio la carrera de Analista de Sistemas en el I.S.d.E.D.y.T N.º 43, en Lobos.<br>
+📝 Me apasiona investigar, analizar y desarrollar aplicaciones que ayuden a facilitar tareas a los usuarios.<br>
+🌟 Tengo conocimientos en Java, HTML5, CSS3 y SQL.<br>
+🚩 Me encuentro desarrollando aplicaciones de escritorio.<br>
+🧠 Sigo formándome para ampliar mis habilidades y conocimientos,<br>
+🔎 con el objetivo de comenzar a crear aplicaciones web más robustas y complejas, tanto como las de escritorio.<br>
+📚 Además, disfruto realizar cursos y explorar recursos que me ayuden a mejorar mi criterio profesional y<br>
     crecer en este camino.
-```
+</div>
 
-<!--💻 Soy Desarrolladora BackEnd especializada en Java
+<!-- ```💻 Soy Desarrolladora BackEnd especializada en Java
 📚 Soy estudiante en la carrera Analista de Sistemas, en el I.S.d.E.D.y.T Nº 43, Lobos
 📝 Me agrada investigar, analizar y crear apps, con el fin de ayudar a los usuarios a facilitar ciertos labores
 🌟 Conosco los siguientes lenguajes: Java, HTML5, CSS3, SQL
 🚩 Actualmente, me dedico a realizar apps de escritorio.
 🧠 Aun asi sigo estudiando para poder adquirir y ampliar mis conocimientos,
 🔎 Con el objetivo de permitirme comenzar a crear apps web. Y tanto estas, como las de escritorio sean mucho mas complejas
-📚 Tambien, me gusta consumir cursos y/o sitios, que me permitan lograr tener un mejor juicio y ser una mejor profesional-->
+📚 Tambien, me gusta consumir cursos y/o sitios, que me permitan lograr tener un mejor juicio y ser una mejor profesional ``` -->
 <hr>
 
 ### 👨‍💻 Programo en los siguientes lenguajes:
