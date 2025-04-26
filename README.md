@@ -23,8 +23,8 @@
 🚩 Me encuentro desarrollando aplicaciones de escritorio.<br>
 🧠 Sigo formándome para ampliar mis habilidades y conocimientos,<br>
 🔎 con el objetivo de comenzar a crear aplicaciones web más robustas y complejas, tanto como las de escritorio.<br>
-📚 Además, disfruto realizar cursos y explorar recursos que me ayuden a mejorar mi criterio profesional y<br>
-          crecer en este camino.
+📚 Además, disfruto realizar cursos y explorar recursos que me ayuden a mejorar mi criterio profesional y  <br>
+crecer en este camino.
 </div>
 
 <!-- ```💻 Soy Desarrolladora BackEnd especializada en Java
