@@ -41,8 +41,8 @@
   <li>Java 17</li>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>SQL</li>
-</ul><br>
+  <li>SQL<br></li>
+</ul>
 
 <!--```
 • Java 17
