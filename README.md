@@ -52,30 +52,30 @@
 ```-->
 
 ### 💾 Control de versiones ☁
-```
+<div style="font-size: 24px; margin-left: 20px;">
 • Git
 • GitHub
-```
+</div>
 
 ### 🗄️ Bases de Datos
-```
+<div style="font-size: 24px; margin-left: 20px;">
 • SQL Server
 • MySQL Workbench
-```
+</div>
 
 ### 🛠️ Herramientas
-```
+<div style="font-size: 24px; margin-left: 20px;">
 • Maven
 • EclipseLink
-```
+</div>
 
 <!--### 💻 Software y Herramientas-->
 ### 💻 IDEs
-```
+<div style="font-size: 24px; margin-left: 20px;">
 • IntelliJ 
 • Apache NetBeans
 • Visual Studio Code
-```
+</div>
 
 
 ## 🤔 No es perfecto, ¿verdad?
