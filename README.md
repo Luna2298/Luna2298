@@ -53,8 +53,7 @@
 ### 🛠️ Herramientas
  <ul>
   <li>Maven</li>
-  <li>EclipseLink</li>
-  <li>JPA</li>
+  <li>JPA con EclipseLink</li>
   <li>Java Swing<br></li>
 </ul>
 
