@@ -44,33 +44,31 @@
   <li>SQL<br></li>
 </ul>
 
-<!--```
-• Java 17
-• HTML5
-• CSS3
-• SQL
-```-->
-
-### 💾 Control de versiones ☁
- <ul>
-  <li>GitHub</li>
-  <li>Git<br></li>
-</ul>
-
-
 ### 🗄️ Bases de Datos
  <ul>
   <li>SQL Server</li>
   <li>MySQL Workbench<br></li>
 </ul>
 
-
 ### 🛠️ Herramientas
  <ul>
   <li>Maven</li>
-  <li>EclipseLink<br></li>
+  <li>EclipseLink</li>
+  <li>Java Swing<br></li>
 </ul>
 
+### 🧠 Conocimientos
+ <ul>
+  <li>POO</li>
+  <li>Java SE</li>
+  <li>POO<br></li>
+</ul>
+
+### 💾 Control de versiones ☁
+ <ul>
+  <li>GitHub</li>
+  <li>Git<br></li>
+</ul>
 
 <!--### 💻 Software y Herramientas-->
 ### 💻 IDEs
