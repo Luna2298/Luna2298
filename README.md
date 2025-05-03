@@ -20,7 +20,7 @@
 📚 Actualmente estudio la carrera de Analista de Sistemas en el I.S.d.E.D.y.T N.º 43, en Lobos.<br>
 📝 Me apasiona investigar, analizar y desarrollar aplicaciones que ayuden a facilitar tareas a los usuarios.<br>
 🌟 Tengo conocimientos en Java, HTML5, CSS3 y SQL.<br>
-🚩 Me encuentro desarrollando aplicaciones de escritorio.<br>
+🚩 Me encuentro desarrollando aplicaciones de escritorio en el lenguaje de Java.<br>
 🧠 Sigo formándome para ampliar mis habilidades y conocimientos,<br>
 🔎 con el objetivo de comenzar a crear aplicaciones web más robustas y complejas, tanto como las de escritorio.<br>
 💡 Además, disfruto realizar cursos y explorar recursos que me ayuden a mejorar mi criterio profesional y crecer en este camino.
