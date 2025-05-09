@@ -82,7 +82,6 @@
 ## 🤔 No es perfecto, ¿verdad?
 
 “Creo que es muy importante tener un ciclo de retroalimentación, donde constantemente piensas en lo que has hecho y cómo podrías mejorarlo.”
-– Elon Musk
 
 
 
