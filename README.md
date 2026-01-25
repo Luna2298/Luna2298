@@ -17,7 +17,7 @@
 
 <div style="font-size: 24px; margin-left: 20px;">
 💻 Soy desarrolladora Back-End con enfoque en Java.<br>
-📚 Estudie la carrera de Analista de Sistemas en el I.S.d.E.D.y.T N.º 43, Lobos<br> 
+📚 Estudie la carrera de Analista de Sistemas en el I.S.d.E.D.y.T N.º 43, Lobos.<br> 
     Curse hasta el 3 año de la carrera, completando la cursada de todas las materias pero no rendi los finales faltantes.<br> 
     Actualmente me encuentro trabajando como Desarrolladora Junior en la Municipalidad de mi ciudad.<br>
 📝 Me apasiona investigar, analizar y desarrollar aplicaciones que ayuden a facilitar tareas a los usuarios.<br>
